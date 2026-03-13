@@ -42,7 +42,7 @@ flutter run
 
 | Home | Product Detail | ShoppingCart |
 |------|-------------|----------------|
-| screenshots/MainPage.png | screenshots/ProductDetail.png | screenshots/ShoppingCart.png |
+| ![Home](screenshots/MainPage.png) | ![Product Detail](screenshots/ProductDetail.png) | ![ShoppingCart](screenshots/ShoppingCart.png) |
 
 
 
